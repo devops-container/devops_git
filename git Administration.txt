@@ -1,0 +1,95 @@
+Git Commands
+------------
+first install Git in windows
+
+Then install Github in windows
+
+Create a orgaization in github
+------------------------------
+go to right upperside +(plus) symbol click on dropdown symbol
+
++
+ 1)New Orgaization
+	2)Organization account name: Devops_container
+		3)Contact email:hpxxxxxxxx.com
+
+4)This organization belongs to:(just click on)
+	>My personal account(selected)
+	>A business or institution
+
+click on next
+----------------------------------------------------------------------------
+
+Create a Repositories
+-----------------------
+Inside the Orgaization  Repositories menu is there click on Repositories
+
+1)Repositories
+	2)click on New Repository
+		3)Repository name:Devops_git
+		4)Description (optional)
+5)Public
+Anyone on the internet can see this repository. You choose who can commit.
+6)Private
+You choose who can see and commit to this repository.
+
+Create Repository
+----------------------------------------------------------------------------
+
+Create a Team
+----------------
+click on teams
+	New Team
+		1)Team name
+		2)Description
+		3)Team visibility
+			3.1)Visible Recommended
+			A visible team can be seen and @mentioned by every 
+member of this organization.
+
+			3.2)Secret
+			A secret team can only be seen by its members and 
+may not be nested.
+
+
+Create Team
+
+----------------------------------------------------------------------------
+
+Add the members into the team
+-----------------------------
+After the create a team. Inside the team, members menu is there, 
+
+click on members 
+	Add members
+		invite a team members using profile name
+			click on invite
+---------------------------------------------------------------------------
+
+If you want to change role just go to QA team
+-----------------------------------------------
+selected the member selected click on dropdown
+	Change the team role of 2 members?
+	This action has no effect on Organization owners.
+	Select a new role:
+
+	1)Maintainer
+Can add and remove team members and create child teams.
+
+	2)Member
+Has no administrative permissions on the team.
+click Change role
+
+---------------------------------------------------------------------------
+
+Repository Access to given to the particular team
+---------------------------------------------------
+go to team
+ 
+select team 
+team name:QA_team
+click on team
+ inside the QA team click on Repositories menu
+	click on Add Repository
+	search the Repository: devops-container/devops_git
+Add Repository
